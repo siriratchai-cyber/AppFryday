@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "933225586753",
+    "project_id": "food-delivery-71d01",
+    "storage_bucket": "food-delivery-71d01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933225586753:android:d64ed67229ff437befe6c0",
+        "android_client_info": {
+          "package_name": "com.example.appfryday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933225586753-olblr66qot1772jolu7th444hpdgik4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQOTc49AO4tExFOY4MyNUncTRkCVlA6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933225586753-olblr66qot1772jolu7th444hpdgik4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933225586753:android:6a1076d08f3b23a8efe6c0",
+        "android_client_info": {
+          "package_name": "com.example.fryday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933225586753-olblr66qot1772jolu7th444hpdgik4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQOTc49AO4tExFOY4MyNUncTRkCVlA6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933225586753-olblr66qot1772jolu7th444hpdgik4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
